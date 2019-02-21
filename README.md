@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-### Instructions:
+## Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
@@ -13,14 +13,14 @@
 
 3. Go to http://0.0.0.0:3001/
 
-### Installation
+## Installation
 * Python 3.*
 * Basic Python Packages: sys, pandas, string, json, numpy, collections, pickle
 * Machine Learning and NLP Packages: sklearn, nltk
 * SQLite Database Package: sqlalchemy
 * Web App and Data Visualization Packages: flask, plotly
 
-### File Structure:
+## File Structure:
 ```
 - app
 | - template
@@ -45,13 +45,13 @@
 - README.md
 ``` 
 
-### Authors, License and Acknowledgements
-## Author: 
+## Authors, License and Acknowledgements
+### Author: 
 [Nicolas Guan](https://github.com/Nic2017)
 
-## License: 
+### License: 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Acknowledgements: 
+### Acknowledgements: 
 Thanks to [Udacity](https://www.udacity.com/) for providing such a thorough and comprehensive project combining ETL Pipeline+ML Pipeline+Web App development. 
 Also thanks to [Figure Eight](https://www.figure-eight.com/) for providing training dataset for the model.
